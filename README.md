@@ -1,11 +1,11 @@
 # Flixterweek2
 This is a movie browsing app 
 
-# Project 2 - *Name of App Here*
+# Project 2 - Flixter
 
-Submitted by: **Your Name Here**
+Submitted by: Rita Osi
 
-Flixter is a movie browsing app that... [TODO] 
+Flixter is a movie browsing app that displays movies in a table view and can show a detail view of the movies.
 
 Time spent: 8 hours spent in total
 
@@ -35,7 +35,6 @@ Here's a walkthrough of implemented user stories:
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
