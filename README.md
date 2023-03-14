@@ -26,7 +26,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://github.com/Ritaosi/Flixterweek2/blob/main/ezgif.com-video-to-gif%20(2).gif'/>
 
-GIF created with Imgur  
+GIF created with ezgif  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
