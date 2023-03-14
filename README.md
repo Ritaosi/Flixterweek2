@@ -33,9 +33,9 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src= https://ccv-render-assets-prod.s3-accelerate.amazonaws.com/By7LCZ35kfu/OUTPUT/preset.json/Screen_Recording_2023-03-14_at_12_13_16_AM_AdobeExpress.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230314T055047Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAVTZ77R5PTZ7W26VR%2F20230314%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=ce6c43358a5a6b2aab0e0e23b505e1c98442fd9f566cbfb2c38fbb6e624450e0/>
 
-GIF created with ...  
+GIF created with Ezgif  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
