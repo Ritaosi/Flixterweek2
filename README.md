@@ -24,7 +24,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src=  https://imgur.com/a/5UArIjn/>
+<img src='https://github.com/Ritaosi/Flixterweek2/blob/main/ezgif.com-video-to-gif%20(2).gif'/>
 
 GIF created with Imgur  
 <!-- Recommended tools:
