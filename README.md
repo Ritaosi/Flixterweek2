@@ -19,23 +19,14 @@ The following **required** functionality is completed:
 [X] Displays at least 5 different movies in a table view
 [X] Can tap into detail view of movie with a full description, backdrop image, and title
  
-The following **optional** features are implemented:
-
-- [ ] Unique UI changes, such as background, font/color changes, etc.
-- [ ] User implements a collection view
-- [ ] User implemenets tab bar controller with at least two screens
-
-The following **additional** features are implemented:
-
-- [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src= https://ccv-render-assets-prod.s3-accelerate.amazonaws.com/By7LCZ35kfu/OUTPUT/preset.json/Screen_Recording_2023-03-14_at_12_13_16_AM_AdobeExpress.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230314T055047Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAVTZ77R5PTZ7W26VR%2F20230314%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=ce6c43358a5a6b2aab0e0e23b505e1c98442fd9f566cbfb2c38fbb6e624450e0/>
+<img src=  https://imgur.com/a/5UArIjn/>
 
-GIF created with Ezgif  
+GIF created with Imgur  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
